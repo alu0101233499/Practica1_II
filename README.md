@@ -52,3 +52,7 @@ En este apartado, incluí un *prefab* de un personaje que venía dentro de la **
 Elaboré un script con varios **Debug.Log** para cada objeto que interviene en el proyecto. Aquí se puede ver su salida.
 
 ![Mensajes](images/Messages.png)
+
+## **Muestra de ejecución**
+
+![GIF](images/VideoMuestra.gif)
