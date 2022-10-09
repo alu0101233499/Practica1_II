@@ -9,7 +9,10 @@ public class Script : MonoBehaviour
     {
         Debug.Log("Personaje");
         Debug.Log("Coche");
-        Debug.Log("Cubo");
+        Debug.Log("Cubo1");
+        Debug.Log("Cubo2");
+        Debug.Log("Cubo3");
+        Debug.Log("Cubo4");
         Debug.Log("Terreno");
         Debug.Log("Luz");
         Debug.Log("Cámara");
